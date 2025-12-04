@@ -1,4 +1,4 @@
-# AU-Julefrokost-Bingo
+#Julefrokost-Bingo
 
-Bingo game for AU Julefrokost
+Bingo game for Julefrokost
 Also contains randomnumber generator 

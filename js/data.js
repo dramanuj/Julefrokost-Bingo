@@ -1,5 +1,5 @@
 
-var headerText = "AU Julefrokost Bingo";
+var headerText = "Julefrokost Bingo";
 
 var footerText = "<a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_blank'>modified from jeffehobbs original code</a>";
 
